@@ -1,0 +1,4 @@
+Install:
+  cp com.easyapply.run.plist ~/Library/LaunchAgents/
+  launchctl bootstrap gui/$(id -u) ~/Library/LaunchAgents/com.easyapply.run.plist
+Runs weekdays 9:00 (LinkedIn) / 9:40 (Naukri).

@@ -1,0 +1,6 @@
+chrome_profile/
+naukri_profile/
+chromedriver/
+config.json
+*.log
+.DS_Store

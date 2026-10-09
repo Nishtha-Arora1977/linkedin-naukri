@@ -1,0 +1,28 @@
+{
+    "email" : "your_email",
+    "password" : "your_password",
+    "keywords" : ["Software Engineer", "Data Scientist"],
+    "locations" : ["Delhi", "Bengaluru"],
+    "driver_path" : "path/to/chromedriver",
+    "headless" : false,
+    "blacklist" : ["company-to-skip"],
+    "answers" : {
+        "phone" : "your_phone",
+        "experience_text" : "2 years",
+        "experience_years" : "2",
+        "degree" : "Your Degree",
+        "university" : "Your University",
+        "graduation_year" : "2026",
+        "current_company" : "Your Company",
+        "salary" : "800000",
+        "notice_period" : "Immediate",
+        "city" : "Your City",
+        "full_name" : "Your Name",
+        "first_name" : "First",
+        "last_name" : "Last",
+        "resume_path" : "/absolute/path/resume.pdf",
+        "rules" : {
+            "convicted" : "No"
+        }
+    }
+}
